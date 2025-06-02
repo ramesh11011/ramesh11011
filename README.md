@@ -114,7 +114,7 @@ Feel free to reach out or connect with me on these platforms:
   <a href="https://www.linkedin.com/in/myselfpramesh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your.programming.ramesh@gmail.com">
+  <a href="mailto:programming.ramesh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ramesh11011" target="_blank">
